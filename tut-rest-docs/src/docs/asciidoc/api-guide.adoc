@@ -1,0 +1,14 @@
+= tut-rest-docs
+galcyurio <galcyurio@gmail.com>
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+
+== index
+include::{snippets}/index/curl-request.adoc[]
+
+
